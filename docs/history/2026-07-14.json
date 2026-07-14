@@ -1,0 +1,1436 @@
+{
+  "updated_at": "2026-07-14T11:02:53+08:00",
+  "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
+  "companies": [
+    {
+      "company": "万家基金",
+      "funds": [
+        {
+          "code": "019441",
+          "name": "万家纳斯达克100指数发起式(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.7047",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019442",
+          "name": "万家纳斯达克100指数发起式(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.6940",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "华夏基金",
+      "funds": [
+        {
+          "code": "015299",
+          "name": "华夏纳斯达克100ETF发起式联接(QDII)A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0688",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "015300",
+          "name": "华夏纳斯达克100ETF发起式联接(QDII)C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0427",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "015518",
+          "name": "华夏纳斯达克100ETF发起式联接(QDII)A美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3052",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018064",
+          "name": "华夏标普500ETF发起式联接(QDII)A(人民币)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "018065",
+          "name": "华夏标普500ETF发起式联接(QDII)C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "018066",
+          "name": "华夏标普500ETF发起式联接(QDII)A(美元)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "159655",
+          "name": "标普500ETF华夏",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.8699",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513300",
+          "name": "纳斯达克ETF华夏",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.5185",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "华安基金",
+      "funds": [
+        {
+          "code": "014978",
+          "name": "华安纳斯达克100ETF联接(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "8.1855",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "014982",
+          "name": "华安标普全球石油指数(LOF)C",
+          "buy_status": "限大额",
+          "daily_limit": "1.00万元",
+          "nav": "1.9584",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "040046",
+          "name": "华安纳斯达克100ETF联接(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "8.3554",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "040047",
+          "name": "华安纳斯达克100ETF联接(QDII)A美元现钞",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.2289",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "040048",
+          "name": "华安纳斯达克100ETF联接(QDII)A美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.2289",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159632",
+          "name": "纳斯达克ETF华安",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.2973",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "160416",
+          "name": "华安标普全球石油指数(LOF)A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.9835",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "华宝基金",
+      "funds": [
+        {
+          "code": "001481",
+          "name": "华宝标普油气上游股票美元A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.1240",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "002423",
+          "name": "华宝标普美国消费美元",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.4248",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "007844",
+          "name": "华宝标普油气上游股票人民币C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.8197",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "009975",
+          "name": "华宝标普美国消费人民币C",
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
+          "nav": "2.8140",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "017436",
+          "name": "华宝纳斯达克精选股票发起式(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
+          "nav": "2.3132",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "017437",
+          "name": "华宝纳斯达克精选股票发起式(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
+          "nav": "2.2842",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "162411",
+          "name": "华宝标普油气上游股票人民币A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.8428",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "162415",
+          "name": "华宝标普美国消费人民币A",
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
+          "nav": "2.8880",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "华泰柏瑞基金",
+      "funds": [
+        {
+          "code": "019524",
+          "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.6718",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019525",
+          "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.6583",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "022664",
+          "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.6698",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513110",
+          "name": "纳指ETF华泰柏瑞",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.3229",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "南方基金",
+      "funds": [
+        {
+          "code": "016452",
+          "name": "南方纳斯达克100指数发起(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "2.3200",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016453",
+          "name": "南方纳斯达克100指数发起(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "2.3100",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "021000",
+          "name": "南方纳斯达克100指数发起(QDII)I",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "2.3202",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "160140",
+          "name": "南方道琼斯美国精选A",
+          "buy_status": "开放申购",
+          "daily_limit": null,
+          "nav": "1.4543",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "160141",
+          "name": "南方道琼斯美国精选C",
+          "buy_status": "开放申购",
+          "daily_limit": null,
+          "nav": "1.4083",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513650",
+          "name": "标普500ETF南方",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.8553",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "博时基金",
+      "funds": [
+        {
+          "code": "006075",
+          "name": "博时标普500ETF联接C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "013425",
+          "name": "博时标普500ETF联接美元汇(QDII)A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "013499",
+          "name": "博时标普500ETF联接美元汇(QDII)C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "016055",
+          "name": "博时纳斯达克100ETF发起式联接(QDII)A人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1455",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016056",
+          "name": "博时纳斯达克100ETF发起式联接(QDII)A美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3156",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016057",
+          "name": "博时纳斯达克100ETF发起式联接(QDII)C人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1184",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016058",
+          "name": "博时纳斯达克100ETF发起式联接(QDII)C美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3116",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018738",
+          "name": "博时标普500ETF联接E(人民币)",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "018851",
+          "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)A人民币",
+          "buy_status": "限大额",
+          "daily_limit": "1.00万元",
+          "nav": "1.0109",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018852",
+          "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)A美元现汇",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.1487",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018853",
+          "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币",
+          "buy_status": "限大额",
+          "daily_limit": "1.00万元",
+          "nav": "0.9956",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018854",
+          "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C美元现汇",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.1464",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "024237",
+          "name": "博时纳斯达克100ETF发起式联接(QDII)I人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1413",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "050025",
+          "name": "博时标普500ETF联接A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "5.5357",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513390",
+          "name": "纳指100ETF博时",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.2699",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513500",
+          "name": "标普500ETF博时",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.4364",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "嘉实基金",
+      "funds": [
+        {
+          "code": "000043",
+          "name": "嘉实美国成长股票人民币",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": "6.3570",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "000044",
+          "name": "嘉实美国成长股票美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "5.7050",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016532",
+          "name": "嘉实纳斯达克100ETF发起联接(QDII)A人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1989",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016533",
+          "name": "嘉实纳斯达克100ETF发起联接(QDII)C人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1748",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016534",
+          "name": "嘉实纳斯达克100ETF发起联接(QDII)A美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3234",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016535",
+          "name": "嘉实纳斯达克100ETF发起联接(QDII)C美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3199",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "021838",
+          "name": "嘉实纳斯达克100ETF发起联接(QDII)I人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1797",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159501",
+          "name": "纳指ETF嘉实",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.8994",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159502",
+          "name": "标普生物科技ETF嘉实",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.5973",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159518",
+          "name": "标普油气ETF嘉实",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.0751",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "国泰基金",
+      "funds": [
+        {
+          "code": "017028",
+          "name": "国泰标普500ETF发起联接(QDII)A人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "017030",
+          "name": "国泰标普500ETF发起联接(QDII)C人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "159612",
+          "name": "标普500ETF国泰",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.9120",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "160213",
+          "name": "国泰纳斯达克100指数",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "4.5390",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513100",
+          "name": "纳指ETF国泰",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0224",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "大成基金",
+      "funds": [
+        {
+          "code": "000834",
+          "name": "大成纳斯达克100ETF联接(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "6.4101",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "008401",
+          "name": "大成标普500等权重指数(QDII)C人民币",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "2.7843",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "008971",
+          "name": "大成纳斯达克100ETF联接(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "6.3526",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "013404",
+          "name": "大成标普500等权重指数(QDII)A美元",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.4117",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "015545",
+          "name": "大成标普500等权重指数(QDII)C美元",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.4095",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "096001",
+          "name": "大成标普500等权重指数(QDII)A人民币",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "2.7989",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159513",
+          "name": "纳斯达克100ETF大成",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.6905",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "天弘基金",
+      "funds": [
+        {
+          "code": "007721",
+          "name": "天弘标普500发起(QDII-FOF)A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "007722",
+          "name": "天弘标普500发起(QDII-FOF)C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "018043",
+          "name": "天弘纳斯达克100指数发起(QDII)A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0634",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018044",
+          "name": "天弘纳斯达克100指数发起(QDII)C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0466",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "022523",
+          "name": "天弘标普500发起(QDII-FOF)D",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "022525",
+          "name": "天弘纳斯达克100指数发起(QDII)D",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0425",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "宝盈基金",
+      "funds": [
+        {
+          "code": "019736",
+          "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.5102",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019737",
+          "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.5002",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019738",
+          "name": "宝盈纳斯达克100指数发起(QDII)A美元现汇",
+          "buy_status": "封闭期",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "019739",
+          "name": "宝盈纳斯达克100指数发起(QDII)C美元现汇",
+          "buy_status": "封闭期",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        }
+      ]
+    },
+    {
+      "company": "富国基金",
+      "funds": [
+        {
+          "code": "513350",
+          "name": "标普油气ETF富国",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.1278",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513870",
+          "name": "纳指ETF富国",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.9258",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "广发基金",
+      "funds": [
+        {
+          "code": "000055",
+          "name": "广发纳斯达克100ETF联接美元(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "1.2223",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "000179",
+          "name": "广发美国房地产指数人民币(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
+          "nav": "1.2650",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "000180",
+          "name": "广发美国房地产指数美元现汇(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.1861",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "004243",
+          "name": "广发道琼斯石油指数人民币C",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": "2.5614",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "006479",
+          "name": "广发纳斯达克100ETF联接人民币(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "8.1669",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "006480",
+          "name": "广发纳斯达克100ETF联接美元(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "1.2012",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "006679",
+          "name": "广发道琼斯石油指数美元现汇A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3833",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "006680",
+          "name": "广发道琼斯石油指数美元现汇C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3767",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016278",
+          "name": "广发美国房地产指数人民币(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
+          "nav": "1.2640",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "016279",
+          "name": "广发美国房地产指数美元现汇(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.1859",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019710",
+          "name": "广发道琼斯石油指数(QDII-LOF)人民币E",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": "2.5680",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019711",
+          "name": "广发道琼斯石油指数(QDII-LOF)美元现汇E",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3777",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "021778",
+          "name": "广发纳指100ETF联接(QDII)人民币F",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "8.2827",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159941",
+          "name": "纳指ETF广发",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.5160",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "162719",
+          "name": "广发道琼斯石油指数人民币A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.6058",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "270042",
+          "name": "广发纳斯达克100ETF联接人民币(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "8.3105",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "建信基金",
+      "funds": [
+        {
+          "code": "012751",
+          "name": "建信纳斯达克100指数(QDII)A美元现汇",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.5136",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012752",
+          "name": "建信纳斯达克100指数(QDII)C人民币",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": "3.3799",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012753",
+          "name": "建信纳斯达克100指数(QDII)C美元现汇",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.4971",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "023422",
+          "name": "建信纳斯达克100指数(QDII)D人民币",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": "3.3960",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "539001",
+          "name": "建信纳斯达克100指数(QDII)A人民币",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": "3.4916",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "招商基金",
+      "funds": [
+        {
+          "code": "019547",
+          "name": "招商纳斯达克100ETF发起式联接(QDII)A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.5937",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019548",
+          "name": "招商纳斯达克100ETF发起式联接(QDII)C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.5773",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159659",
+          "name": "纳斯达克100ETF招商",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.1836",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "摩根基金(中国)",
+      "funds": [
+        {
+          "code": "017641",
+          "name": "摩根标普500指数(QDII)人民币A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.6873",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "017642",
+          "name": "摩根标普500指数(QDII)美钞",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.2482",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "017643",
+          "name": "摩根标普500指数(QDII)美汇",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.2482",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019172",
+          "name": "摩根纳斯达克100指数(QDII)人民币A",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.7725",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019173",
+          "name": "摩根纳斯达克100指数(QDII)人民币C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.7569",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019174",
+          "name": "摩根纳斯达克100指数(QDII)美元现汇A",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "1.8631",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019175",
+          "name": "摩根纳斯达克100指数(QDII)美元现汇C",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "1.8555",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019305",
+          "name": "摩根标普500指数(QDII)人民币C",
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
+          "nav": "1.6721",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "易方达基金",
+      "funds": [
+        {
+          "code": "000593",
+          "name": "易方达标普消费品指数美元现汇A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.4304",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "003718",
+          "name": "易方达标普500指数美元汇A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.4592",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "003719",
+          "name": "易方达标普医疗保健美元汇A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.2915",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "003720",
+          "name": "易方达标普生物科技美元汇A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3107",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "003721",
+          "name": "易方达标普信息科技指数(QDII-LOF)A(美元现汇)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.9770",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "003722",
+          "name": "易方达纳斯达克100ETF联接(QDII-LOF)A(美元现汇)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.6620",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "005676",
+          "name": "易方达标普消费品指数C",
+          "buy_status": "开放申购",
+          "daily_limit": null,
+          "nav": "2.8650",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012860",
+          "name": "易方达标普500指数人民币C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "3.0689",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012861",
+          "name": "易方达标普500指数美元汇C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.4514",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012864",
+          "name": "易方达标普医疗保健人民币C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.9446",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012865",
+          "name": "易方达标普医疗保健美元汇C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.2860",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012866",
+          "name": "易方达标普生物科技人民币C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.0774",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012867",
+          "name": "易方达标普生物科技美元汇C",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3055",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012868",
+          "name": "易方达标普信息科技指数(QDII-LOF)C(人民币)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "6.5241",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012869",
+          "name": "易方达标普信息科技指数(QDII-LOF)C(美元现汇)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.9596",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012870",
+          "name": "易方达纳斯达克100ETF联接(QDII-LOF)C(人民币)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "4.4235",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "012871",
+          "name": "易方达纳斯达克100ETF联接(QDII-LOF)C(美元现汇)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.6506",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "118002",
+          "name": "易方达标普消费品指数A",
+          "buy_status": "开放申购",
+          "daily_limit": null,
+          "nav": "2.9260",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159696",
+          "name": "纳指ETF易方达",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.8822",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "161125",
+          "name": "易方达标普500指数人民币A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "3.1218",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "161126",
+          "name": "易方达标普医疗保健人民币A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.9819",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "161127",
+          "name": "易方达标普生物科技人民币A",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.1126",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "161128",
+          "name": "易方达标普信息科技指数(QDII-LOF)A(人民币)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "6.6424",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "161130",
+          "name": "易方达纳斯达克100ETF联接(QDII-LOF)A(人民币)",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "4.5007",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513850",
+          "name": "美国50ETF易方达",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.7316",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "景顺长城基金",
+      "funds": [
+        {
+          "code": "017091",
+          "name": "景顺长城纳斯达克科技ETF联接(QDII)A人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.8741",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "017092",
+          "name": "景顺长城纳斯达克科技ETF联接(QDII)A美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.4227",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "017093",
+          "name": "景顺长城纳斯达克科技ETF联接(QDII)C人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.8304",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "019118",
+          "name": "景顺长城纳斯达克科技ETF联接(QDII)E人民币",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "2.8550",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159509",
+          "name": "纳指科技ETF景顺",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.2795",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159529",
+          "name": "标普消费ETF景顺",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.2845",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "汇添富基金",
+      "funds": [
+        {
+          "code": "017894",
+          "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)人民币A",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "017895",
+          "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)人民币C",
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "017951",
+          "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "017952",
+          "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)美元现钞",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
+          "code": "018966",
+          "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币A",
+          "buy_status": "限大额",
+          "daily_limit": "50.00元",
+          "nav": "1.6672",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018967",
+          "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币C",
+          "buy_status": "限大额",
+          "daily_limit": "50.00元",
+          "nav": "1.6481",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018968",
+          "name": "汇添富纳斯达克100ETF发起式联接(QDII)美元现汇",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.7610",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "018969",
+          "name": "汇添富纳斯达克100ETF发起式联接(QDII)美元现钞",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "1.7610",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "021773",
+          "name": "汇添富纳斯达克100ETF发起式联接(QDII)人民币E",
+          "buy_status": "限大额",
+          "daily_limit": "50.00元",
+          "nav": "1.6640",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159577",
+          "name": "美国50ETF汇添富",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.5575",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "159660",
+          "name": "纳指ETF汇添富",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "2.2097",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513290",
+          "name": "纳指生物科技ETF汇添富",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.6304",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "长信基金",
+      "funds": [
+        {
+          "code": "011706",
+          "name": "长信标普100等权重指数美元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
+          "nav": "0.3770",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "519981",
+          "name": "长信标普100等权重指数人民币",
+          "buy_status": "限大额",
+          "daily_limit": "1.00万元",
+          "nav": "2.5610",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "company": "鹏华基金",
+      "funds": [
+        {
+          "code": "006283",
+          "name": "鹏华美国房地产美元现汇",
+          "buy_status": "限大额",
+          "daily_limit": null,
+          "nav": "0.1370",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "206011",
+          "name": "鹏华美国房地产(QDII)",
+          "buy_status": "限大额",
+          "daily_limit": "10.00万元",
+          "nav": "0.9300",
+          "nav_date": "2026-07-10"
+        },
+        {
+          "code": "513400",
+          "name": "道琼斯ETF鹏华",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": "1.3005",
+          "nav_date": "2026-07-10"
+        }
+      ]
+    }
+  ]
+}

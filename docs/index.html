@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>美股 QDII 基金额度看板</title>
+  <style>
+    :root {
+      --bg: #ffffff; --fg: #1a1a1a; --muted: #6b7280;
+      --border: #e5e7eb; --th: #f5f6f8; --card: #fafafa;
+      --open: #16a34a; --limit: #ea580c; --closed: #dc2626;
+      --up: #dc2626; --down: #16a34a;   /* 中国习惯：红涨绿跌 */
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0f1115; --fg: #e5e7eb; --muted: #9ca3af;
+        --border: #2a2f3a; --th: #1a1e27; --card: #161a22;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; padding: 16px 16px 48px;
+      font-family: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg); color: var(--fg); line-height: 1.5;
+    }
+    header { max-width: 1100px; margin: 0 auto 12px; }
+    h1 { font-size: 20px; margin: 0 0 4px; }
+    #meta { color: var(--muted); font-size: 12px; margin: 0 0 12px; }
+    .toolbar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+    input, select {
+      padding: 7px 10px; border: 1px solid var(--border); border-radius: 8px;
+      background: var(--bg); color: var(--fg); font-size: 14px;
+    }
+    .stats { display: flex; gap: 8px; flex-wrap: wrap; margin: 12px 0; }
+    .stat {
+      background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+      padding: 8px 14px; font-size: 13px; min-width: 110px;
+    }
+    .stat b { display: block; font-size: 20px; }
+    main { max-width: 1100px; margin: 0 auto; }
+    .company { margin-top: 22px; }
+    .company h2 { font-size: 16px; margin: 0 0 6px; }
+    .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; }
+    table { border-collapse: collapse; width: 100%; font-size: 13px; min-width: 760px; }
+    th, td { padding: 8px 10px; text-align: center; border-bottom: 1px solid var(--border); white-space: nowrap; }
+    th { background: var(--th); position: sticky; top: 0; font-weight: 600; }
+    td.name { text-align: left; white-space: normal; min-width: 220px; }
+    tr:last-child td { border-bottom: none; }
+    .badge { padding: 2px 8px; border-radius: 999px; font-size: 12px; font-weight: 600; }
+    .open   { color: var(--open);   background: color-mix(in srgb, var(--open) 12%, transparent); }
+    .limit  { color: var(--limit);  background: color-mix(in srgb, var(--limit) 12%, transparent); }
+    .closed { color: var(--closed); background: color-mix(in srgb, var(--closed) 12%, transparent); }
+    .up { color: var(--up); } .down { color: var(--down); }
+    small { color: var(--muted); }
+    footer { max-width: 1100px; margin: 32px auto 0; color: var(--muted); font-size: 12px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>美股 QDII 基金额度看板</h1>
+    <p id="meta">加载中…</p>
+    <div class="toolbar">
+      <input id="search" placeholder="搜索 基金名 / 代码 / 公司" style="flex:1;min-width:200px">
+      <select id="filter">
+        <option value="">全部状态</option>
+        <option value="closed">仅看暂停申购</option>
+        <option value="limit">仅看限购</option>
+        <option value="open">仅看开放</option>
+      </select>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+  <main id="app"></main>
+  <footer>
+    数据来源：天天基金网（非官方接口）。盘中估值与溢价率为实时估算，仅供参考，<b>不构成投资建议</b>。
+    “单日限额 / 申购状态”仅间接反映 QDII 额度松紧；机构总额度以国家外汇管理局按月公布为准。
+  </footer>
+  <script src="app.js?v=2"></script>
+</body>
+</html>
