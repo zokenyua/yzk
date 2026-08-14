@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T15:04:09+08:00",
+  "updated_at": "2026-08-14T17:55:16+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -855,6 +855,14 @@
           "nav_date": null
         },
         {
+          "code": "159941",
+          "name": "纳指ETF广发",
+          "buy_status": "场内交易",
+          "daily_limit": null,
+          "nav": null,
+          "nav_date": null
+        },
+        {
           "code": "162719",
           "name": "广发道琼斯石油指数人民币A",
           "buy_status": "暂停申购",
@@ -1267,19 +1275,6 @@
           "code": "159529",
           "name": "标普消费ETF景顺",
           "buy_status": "场内交易",
-          "daily_limit": null,
-          "nav": null,
-          "nav_date": null
-        }
-      ]
-    },
-    {
-      "company": "未知",
-      "funds": [
-        {
-          "code": "159941",
-          "name": "纳指ETF广发",
-          "buy_status": null,
           "daily_limit": null,
           "nav": null,
           "nav_date": null
