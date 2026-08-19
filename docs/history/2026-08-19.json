@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:56:58+08:00",
+  "updated_at": "2026-08-19T15:30:08+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -374,7 +374,7 @@
         {
           "code": "018738",
           "name": "博时标普500ETF联接E(人民币)",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -895,7 +895,7 @@
           "code": "012752",
           "name": "建信纳斯达克100指数(QDII)C人民币",
           "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
@@ -911,7 +911,7 @@
           "code": "023422",
           "name": "建信纳斯达克100指数(QDII)D人民币",
           "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
@@ -919,7 +919,7 @@
           "code": "539001",
           "name": "建信纳斯达克100指数(QDII)A人民币",
           "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         }
