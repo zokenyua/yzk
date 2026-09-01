@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:00:54+08:00",
+  "updated_at": "2026-09-01T20:00:40+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -642,32 +642,32 @@
         {
           "code": "007721",
           "name": "天弘标普500发起(QDII-FOF)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "007722",
           "name": "天弘标普500发起(QDII-FOF)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "018043",
           "name": "天弘纳斯达克100指数发起(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "018044",
           "name": "天弘纳斯达克100指数发起(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
@@ -1397,7 +1397,7 @@
           "code": "519981",
           "name": "长信标普100等权重指数人民币",
           "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "daily_limit": "1.00万元",
           "nav": null,
           "nav_date": null
         }
