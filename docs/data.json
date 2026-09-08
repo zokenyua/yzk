@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:49:19+08:00",
+  "updated_at": "2026-09-08T19:41:30+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -9,7 +9,7 @@
           "code": "019441",
           "name": "万家纳斯达克100指数发起式(QDII)A",
           "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "daily_limit": "5000.00元",
           "nav": null,
           "nav_date": null
         },
@@ -17,7 +17,7 @@
           "code": "019442",
           "name": "万家纳斯达克100指数发起式(QDII)C",
           "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "daily_limit": "5000.00元",
           "nav": null,
           "nav_date": null
         }
@@ -107,7 +107,7 @@
           "code": "014982",
           "name": "华安标普全球石油指数(LOF)C",
           "buy_status": "限大额",
-          "daily_limit": "1.00万元",
+          "daily_limit": "10.00万元",
           "nav": null,
           "nav_date": null
         },
@@ -568,7 +568,7 @@
         {
           "code": "513100",
           "name": "纳指ETF国泰",
-          "buy_status": "暂停申购",
+          "buy_status": "场内交易",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
