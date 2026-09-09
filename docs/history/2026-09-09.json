@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:56:38+08:00",
+  "updated_at": "2026-09-09T19:49:35+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -9,7 +9,7 @@
           "code": "019441",
           "name": "万家纳斯达克100指数发起式(QDII)A",
           "buy_status": "限大额",
-          "daily_limit": "5000.00元",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
@@ -17,7 +17,7 @@
           "code": "019442",
           "name": "万家纳斯达克100指数发起式(QDII)C",
           "buy_status": "限大额",
-          "daily_limit": "5000.00元",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         }
