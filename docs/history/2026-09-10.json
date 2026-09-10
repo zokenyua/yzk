@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:56:30+08:00",
+  "updated_at": "2026-09-10T19:46:22+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -786,7 +786,7 @@
           "code": "006479",
           "name": "广发纳斯达克100ETF联接人民币(QDII)C",
           "buy_status": "限大额",
-          "daily_limit": "5.00元",
+          "daily_limit": "2.00元",
           "nav": null,
           "nav_date": null
         },
@@ -874,7 +874,7 @@
           "code": "270042",
           "name": "广发纳斯达克100ETF联接人民币(QDII)A",
           "buy_status": "限大额",
-          "daily_limit": "5.00元",
+          "daily_limit": "2.00元",
           "nav": null,
           "nav_date": null
         }
@@ -1397,7 +1397,7 @@
           "code": "519981",
           "name": "长信标普100等权重指数人民币",
           "buy_status": "限大额",
-          "daily_limit": "1.00万元",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         }
