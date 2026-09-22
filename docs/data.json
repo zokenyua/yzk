@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T15:04:55+08:00",
+  "updated_at": "2026-09-22T20:03:15+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -1234,8 +1234,8 @@
         {
           "code": "017091",
           "name": "景顺长城纳斯达克科技ETF联接(QDII)A人民币",
-          "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
           "nav": null,
           "nav_date": null
         },
@@ -1250,16 +1250,16 @@
         {
           "code": "017093",
           "name": "景顺长城纳斯达克科技ETF联接(QDII)C人民币",
-          "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019118",
           "name": "景顺长城纳斯达克科技ETF联接(QDII)E人民币",
-          "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
           "nav": null,
           "nav_date": null
         },
