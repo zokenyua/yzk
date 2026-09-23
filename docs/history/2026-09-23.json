@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T14:58:37+08:00",
+  "updated_at": "2026-09-23T20:03:45+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -99,7 +99,7 @@
           "code": "014978",
           "name": "华安纳斯达克100ETF联接(QDII)C",
           "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         },
@@ -115,7 +115,7 @@
           "code": "040046",
           "name": "华安纳斯达克100ETF联接(QDII)A",
           "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         },
