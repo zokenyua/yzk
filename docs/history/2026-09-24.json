@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:01:04+08:00",
+  "updated_at": "2026-09-24T20:25:24+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -560,8 +560,8 @@
         {
           "code": "160213",
           "name": "国泰纳斯达克100指数",
-          "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
           "nav": null,
           "nav_date": null
         },
@@ -696,7 +696,7 @@
           "code": "019736",
           "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
           "buy_status": "限大额",
-          "daily_limit": "200.00元",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
@@ -704,7 +704,7 @@
           "code": "019737",
           "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
           "buy_status": "限大额",
-          "daily_limit": "200.00元",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
