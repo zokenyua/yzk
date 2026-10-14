@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T22:38:12+08:00",
+  "updated_at": "2026-10-14T14:56:58+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -931,16 +931,16 @@
         {
           "code": "019547",
           "name": "招商纳斯达克100ETF发起式联接(QDII)A",
-          "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019548",
           "name": "招商纳斯达克100ETF发起式联接(QDII)C",
-          "buy_status": "限大额",
-          "daily_limit": "10.00元",
+          "buy_status": "暂停申购",
+          "daily_limit": null,
           "nav": null,
           "nav_date": null
         },
