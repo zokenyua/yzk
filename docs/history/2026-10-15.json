@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T14:46:07+08:00",
+  "updated_at": "2026-10-15T20:01:27+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -590,7 +590,7 @@
           "code": "008401",
           "name": "大成标普500等权重指数(QDII)C人民币",
           "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "daily_limit": "50.00元",
           "nav": null,
           "nav_date": null
         },
@@ -622,7 +622,7 @@
           "code": "096001",
           "name": "大成标普500等权重指数(QDII)A人民币",
           "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "daily_limit": "50.00元",
           "nav": null,
           "nav_date": null
         },
