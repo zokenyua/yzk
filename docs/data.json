@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T20:30:19+08:00",
+  "updated_at": "2026-10-15T14:46:07+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -849,7 +849,7 @@
         {
           "code": "021778",
           "name": "广发纳指100ETF联接(QDII)人民币F",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
