@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T15:11:06+08:00",
+  "updated_at": "2026-10-19T21:57:25+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -1165,7 +1165,7 @@
         {
           "code": "118002",
           "name": "易方达标普消费品指数A",
-          "buy_status": "暂停申购",
+          "buy_status": "开放申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
