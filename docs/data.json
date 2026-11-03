@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T16:52:52+08:00",
+  "updated_at": "2026-11-03T22:41:21+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -452,7 +452,7 @@
           "code": "000043",
           "name": "嘉实美国成长股票人民币",
           "buy_status": "限大额",
-          "daily_limit": "100.00元",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
