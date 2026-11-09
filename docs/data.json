@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:42:58+08:00",
+  "updated_at": "2026-11-09T16:56:10+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -192,7 +192,7 @@
           "code": "017436",
           "name": "华宝纳斯达克精选股票发起式(QDII)A",
           "buy_status": "限大额",
-          "daily_limit": "2000.00元",
+          "daily_limit": "200.00元",
           "nav": null,
           "nav_date": null
         },
@@ -200,7 +200,7 @@
           "code": "017437",
           "name": "华宝纳斯达克精选股票发起式(QDII)C",
           "buy_status": "限大额",
-          "daily_limit": "2000.00元",
+          "daily_limit": "200.00元",
           "nav": null,
           "nav_date": null
         },
