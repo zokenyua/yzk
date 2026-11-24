@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:54:46+08:00",
+  "updated_at": "2026-11-24T19:54:30+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -732,7 +732,7 @@
         {
           "code": "513350",
           "name": "标普油气ETF富国",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -740,7 +740,7 @@
         {
           "code": "513870",
           "name": "纳指ETF富国",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
