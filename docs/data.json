@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:42:24+08:00",
+  "updated_at": "2026-11-26T18:14:27+08:00",
   "source": "天天基金网（非官方接口，仅供参考，不构成投资建议）",
   "companies": [
     {
@@ -8,16 +8,16 @@
         {
           "code": "019441",
           "name": "万家纳斯达克100指数发起式(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019442",
           "name": "万家纳斯达克100指数发起式(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         }
@@ -77,7 +77,7 @@
         {
           "code": "159655",
           "name": "标普500ETF华夏",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -85,7 +85,7 @@
         {
           "code": "513300",
           "name": "纳斯达克ETF华夏",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -106,8 +106,8 @@
         {
           "code": "014982",
           "name": "华安标普全球石油指数(LOF)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00万元",
           "nav": null,
           "nav_date": null
         },
@@ -138,7 +138,7 @@
         {
           "code": "159632",
           "name": "纳斯达克ETF华安",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -167,7 +167,7 @@
         {
           "code": "002423",
           "name": "华宝标普美国消费美元",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -183,24 +183,24 @@
         {
           "code": "009975",
           "name": "华宝标普美国消费人民币C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "017436",
           "name": "华宝纳斯达克精选股票发起式(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "200.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "017437",
           "name": "华宝纳斯达克精选股票发起式(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "200.00元",
           "nav": null,
           "nav_date": null
         },
@@ -215,8 +215,8 @@
         {
           "code": "162415",
           "name": "华宝标普美国消费人民币A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
           "nav": null,
           "nav_date": null
         }
@@ -228,31 +228,31 @@
         {
           "code": "019524",
           "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019525",
           "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "022664",
           "name": "华泰柏瑞纳斯达克100ETF发起式联接(QDII)I",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "5.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "513110",
           "name": "纳指ETF华泰柏瑞",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -265,23 +265,23 @@
         {
           "code": "016452",
           "name": "南方纳斯达克100指数发起(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "016453",
           "name": "南方纳斯达克100指数发起(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "021000",
           "name": "南方纳斯达克100指数发起(QDII)I",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -289,7 +289,7 @@
         {
           "code": "160140",
           "name": "南方美国精选REIT指数(QDII-LOF)A",
-          "buy_status": "暂停申购",
+          "buy_status": "开放申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -297,7 +297,7 @@
         {
           "code": "160141",
           "name": "南方美国精选REIT指数(QDII-LOF)C",
-          "buy_status": "暂停申购",
+          "buy_status": "开放申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -305,7 +305,7 @@
         {
           "code": "513650",
           "name": "标普500ETF南方",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -382,15 +382,15 @@
         {
           "code": "018851",
           "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)A人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "018852",
           "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)A美元现汇",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -398,15 +398,15 @@
         {
           "code": "018853",
           "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "018854",
           "name": "博时标普石油天然气勘探及生产精选行业指数发起(QDII)C美元现汇",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -451,8 +451,8 @@
         {
           "code": "000043",
           "name": "嘉实美国成长股票人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
@@ -507,7 +507,7 @@
         {
           "code": "159501",
           "name": "纳指ETF嘉实",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -515,7 +515,7 @@
         {
           "code": "159502",
           "name": "标普生物科技ETF嘉实",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -523,7 +523,7 @@
         {
           "code": "159518",
           "name": "标普油气ETF嘉实",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -581,31 +581,31 @@
         {
           "code": "000834",
           "name": "大成纳斯达克100ETF联接(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "008401",
           "name": "大成标普500等权重指数(QDII)C人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "50.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "008971",
           "name": "大成纳斯达克100ETF联接(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "013404",
           "name": "大成标普500等权重指数(QDII)A美元",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -613,7 +613,7 @@
         {
           "code": "015545",
           "name": "大成标普500等权重指数(QDII)C美元",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -621,15 +621,15 @@
         {
           "code": "096001",
           "name": "大成标普500等权重指数(QDII)A人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "50.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "159513",
           "name": "纳斯达克100ETF大成",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -674,7 +674,7 @@
         {
           "code": "022523",
           "name": "天弘标普500发起(QDII-FOF)D",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -682,7 +682,7 @@
         {
           "code": "022525",
           "name": "天弘纳斯达克100指数发起(QDII)D",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -695,16 +695,16 @@
         {
           "code": "019736",
           "name": "宝盈纳斯达克100指数发起(QDII)A人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019737",
           "name": "宝盈纳斯达克100指数发起(QDII)C人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
@@ -761,15 +761,15 @@
         {
           "code": "000179",
           "name": "广发美国房地产指数人民币(QDII)A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "000180",
           "name": "广发美国房地产指数美元现汇(QDII)A",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -777,8 +777,8 @@
         {
           "code": "004243",
           "name": "广发道琼斯石油指数人民币C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
@@ -817,15 +817,15 @@
         {
           "code": "016278",
           "name": "广发美国房地产指数人民币(QDII)C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "1000.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "016279",
           "name": "广发美国房地产指数美元现汇(QDII)C",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -833,8 +833,8 @@
         {
           "code": "019710",
           "name": "广发道琼斯石油指数(QDII-LOF)人民币E",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "100.00元",
           "nav": null,
           "nav_date": null
         },
@@ -857,7 +857,7 @@
         {
           "code": "159941",
           "name": "纳指ETF广发",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -886,7 +886,7 @@
         {
           "code": "012751",
           "name": "建信纳斯达克100指数(QDII)A美元现汇",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -894,15 +894,15 @@
         {
           "code": "012752",
           "name": "建信纳斯达克100指数(QDII)C人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "012753",
           "name": "建信纳斯达克100指数(QDII)C美元现汇",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -910,16 +910,16 @@
         {
           "code": "023422",
           "name": "建信纳斯达克100指数(QDII)D人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "539001",
           "name": "建信纳斯达克100指数(QDII)A人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         }
@@ -947,7 +947,7 @@
         {
           "code": "159659",
           "name": "纳斯达克100ETF招商",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -960,15 +960,15 @@
         {
           "code": "017641",
           "name": "摩根标普500指数(QDII)人民币A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "017642",
           "name": "摩根标普500指数(QDII)美钞",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -976,7 +976,7 @@
         {
           "code": "017643",
           "name": "摩根标普500指数(QDII)美汇",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -984,23 +984,23 @@
         {
           "code": "019172",
           "name": "摩根纳斯达克100指数(QDII)人民币A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019173",
           "name": "摩根纳斯达克100指数(QDII)人民币C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "019174",
           "name": "摩根纳斯达克100指数(QDII)美元现汇A",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1008,7 +1008,7 @@
         {
           "code": "019175",
           "name": "摩根纳斯达克100指数(QDII)美元现汇C",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1016,8 +1016,8 @@
         {
           "code": "019305",
           "name": "摩根标普500指数(QDII)人民币C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         }
@@ -1077,7 +1077,7 @@
         {
           "code": "005676",
           "name": "易方达标普消费品指数C",
-          "buy_status": "暂停申购",
+          "buy_status": "开放申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1165,7 +1165,7 @@
         {
           "code": "118002",
           "name": "易方达标普消费品指数A",
-          "buy_status": "暂停申购",
+          "buy_status": "开放申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1173,7 +1173,7 @@
         {
           "code": "159696",
           "name": "纳指ETF易方达",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1221,7 +1221,7 @@
         {
           "code": "513850",
           "name": "美国50ETF易方达",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1266,7 +1266,7 @@
         {
           "code": "159509",
           "name": "纳指科技ETF景顺",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1274,7 +1274,7 @@
         {
           "code": "159529",
           "name": "标普消费ETF景顺",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1287,16 +1287,16 @@
         {
           "code": "017894",
           "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)人民币A",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "017895",
           "name": "汇添富纳斯达克生物科技ETF发起式联接(QDII)人民币C",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00元",
           "nav": null,
           "nav_date": null
         },
@@ -1359,7 +1359,7 @@
         {
           "code": "159577",
           "name": "美国50ETF汇添富",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1367,7 +1367,7 @@
         {
           "code": "159660",
           "name": "纳指ETF汇添富",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1375,7 +1375,7 @@
         {
           "code": "513290",
           "name": "纳指生物科技ETF汇添富",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1396,8 +1396,8 @@
         {
           "code": "519981",
           "name": "长信标普100等权重指数人民币",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "500.00元",
           "nav": null,
           "nav_date": null
         }
@@ -1409,7 +1409,7 @@
         {
           "code": "006283",
           "name": "鹏华美国房地产美元现汇",
-          "buy_status": "限大额",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
@@ -1417,15 +1417,15 @@
         {
           "code": "206011",
           "name": "鹏华美国房地产(QDII)",
-          "buy_status": "暂停申购",
-          "daily_limit": null,
+          "buy_status": "限大额",
+          "daily_limit": "10.00万元",
           "nav": null,
           "nav_date": null
         },
         {
           "code": "513400",
           "name": "道琼斯ETF鹏华",
-          "buy_status": "场内交易",
+          "buy_status": "暂停申购",
           "daily_limit": null,
           "nav": null,
           "nav_date": null
